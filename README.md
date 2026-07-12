@@ -16,11 +16,11 @@ Dalam proses pembuatannya, website ini saya menggunakan HTML dan CSS dengan mene
 <img width="2506" height="8080" alt="192 168 100 210_5502_index html (1)" src="https://github.com/user-attachments/assets/b3da20cb-7053-47f6-922f-006e04bc2760" />
 <br>
 
-<h3>📱 Smartphone View</h3>
+<h3>Smartphone View</h3>
 <img width="1290" height="14361" alt="192 168 100 210_5502_index html(iPhone 14 Pro Max)" src="https://github.com/user-attachments/assets/df9a794c-894c-4f16-92c9-3a36dcea580b" />
 <br>
 
-<h3>📱 Tablet View</h3>
+<h3>Tablet View</h3>
 
 <img width="2048" height="8078" alt="192 168 100 210_5502_index html(iPad Pro)" src="https://github.com/user-attachments/assets/66c072d5-2ed1-4de9-8d21-1c8e4bfc47ec" />
 
