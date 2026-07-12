@@ -7,7 +7,7 @@ perbaiki untuk readme github Pada tugas ini saya membuat landing page markerplac
 <li>Statistik Marketplace</li>
 <li>FAQ (Frequently Asked Questions)</li>
 <li>Footer</li>
-
+</ul>
 
 Dalam proses pembuatannya, website ini saya menggunakan HTML dan CSS dengan menerapkan konsep responsive web design berbagai ukuran layar seperti desktop, tablet, dan smartphone.Berikut merupakan tampilan antarmuka website yang telah dirancang:
 
