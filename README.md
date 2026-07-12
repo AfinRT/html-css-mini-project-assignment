@@ -13,7 +13,7 @@ Dalam proses pembuatannya, website ini saya menggunakan HTML dan CSS dengan mene
 
 <h3>Desktop View</h3>
 
-<img width="1200" height="1200" alt="192 168 100 210_5502_index html" src="https://github.com/user-attachments/assets/21b5b7cd-9cc2-45df-92f3-37fb396468bb" />
+<img width="2506" height="8080" alt="192 168 100 210_5502_index html (1)" src="https://github.com/user-attachments/assets/b3da20cb-7053-47f6-922f-006e04bc2760" />
 <br>
 
 <h3>📱 Smartphone View</h3>
